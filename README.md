@@ -8,8 +8,7 @@ Create a user-friendly, accessible interface for discovering and booking trips e
 
 ### 🛠️ Tools Used
 - Figma (Design & Prototyping)
-- Illustrator (Icon design)
-- Photoshop (Mockups)
+
 
 ### 🧩 Key Features
 - 3D-effect buttons using gradient layering
